@@ -1,0 +1,7 @@
+\BOOKMARK [1][-]{section.1}{Diario de trabajo}{}% 1
+\BOOKMARK [1][-]{section.2}{C\363digo de los ejercicios}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{5.1 Sumar N enteros sin signo de 32 bits sobre registros de 32 bits usando uno de ellos como acumulador de acarreos. \(N=16\)}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{5.2 Sumar N enteros sin signo de 32 bits sobre registros de 32 bits meidante extensi\363n con ceros. \(N=16\)}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{5.3 Sumar N enteros con signo de 32 bits sobre registros de 32 bits \(mediante extension de signo\). \(N=16\)}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{5.4 Media y resto de N enteros con signo de 32 bits calculada usando registros de 32 bits. \(N=16\)}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Pruebas de ejecuci\363n}{}% 7

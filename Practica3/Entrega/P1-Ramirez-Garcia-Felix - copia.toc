@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Diario de trabajo}{3}{section.1}
+\contentsline {section}{\numberline {2}C\IeC {\'o}digo de los ejercicios}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}4.1 Calcular la suma de bits de una lista de enteros sin signo}{3}{subsection.2.1}
+\contentsline {section}{\numberline {3}Pruebas de ejecuci\IeC {\'o}n}{10}{section.3}
+\contentsline {section}{\numberline {4}Grafica con los resultados de los test}{19}{section.4}

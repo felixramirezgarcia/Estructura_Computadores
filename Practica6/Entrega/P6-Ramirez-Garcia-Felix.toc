@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}C\IeC {\'o}digos de los programas}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Programa line.cc}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Programa size.cc}{4}{subsection.1.2}
+\contentsline {section}{\numberline {2}Gr\IeC {\'a}ficas}{5}{section.2}
+\contentsline {section}{\numberline {3}Caracteristicas de nuestra CPU}{5}{section.3}
